@@ -16,7 +16,7 @@ Description : This project demonstrates CRUD (Create, Read, Update, Delete) oper
 and try below command in terminal
 mvn spring-boot:run it will run application as spring boot application
 
-or
+<or>
 
 mvn clean install it will build application and create jar file under target directory
 
@@ -24,6 +24,6 @@ Run jar file from below path with given command
 
 java -jar ~/<employee-detail-service-path>/target/employee-detail-service-0.0.1-SNAPSHOT.jar
 
-Or
+<or>
 
 run main method from EmployeeDetailApplication.java as spring boot application.
